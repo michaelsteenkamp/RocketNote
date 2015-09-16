@@ -1,3 +1,1 @@
-() => {
- console.log('cats');
-}();
+var config = require('./config');
